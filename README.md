@@ -1,4 +1,4 @@
-# <img align="right" alt="Marco Campione | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/hacker.png" /> Marco Campione
+# <img align="left" width="50px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/hacker.png" /> Marco Campione
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>
@@ -6,9 +6,11 @@
   <img align="right" alt="Marco Campione | Instagram" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marco-campione/">
-  <img align="right" alt="Marco Campione | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/ico" />
+  <img align="right" alt="Marco Campione | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/lindedin.svg" />
 </a>
-
+<a href="https://marcocampione.xyz">
+  <img align="right" alt="Marco Campione | website" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/website.png" />
+</a>
 
 **`Computer Science Student`**
 
@@ -30,10 +32,8 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
 
-#
-### 🌐 [Check my website](https://marcocampione.xyz)
-#
 ### 📊 Stats
 
 <!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&hide_border=true&theme=transparent) 

@@ -1,10 +1,4 @@
 # 👨‍💻 Marco Campione
-
-**`Computer Science Student`**
-
-I am very passionate about the world of Cybersecurity , field that is growing rapidly and which is useful for a multitude of subjects. My passion comes from studying certain subjects during my bachelor's degree (Cryptography and Information Security, Internet Technologies and Standards, Telecommunication Systems), but above all from the development of a project in the field of cryptography that I conducted with a team of international students during an exchange period at "Warsaw University of Technology". The project concerned the implementation of an encryption algorithm chosen by the team (ElGamal cipher), which was then completely developed from scratch without using other previous implementations.
-I find Cybersecurity very exciting, challenging and above all very stimulating due to teamwork. I am currently furthering my cybersecurity studies by studying cybersecurity-related certfications and testing my skills through CFT events.
-  
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>
@@ -15,7 +9,11 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
   <img align="right" alt="Anurag Hazra | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
 </a>
 
+**`Computer Science Student`**
 
+I am very passionate about the world of Cybersecurity , field that is growing rapidly and which is useful for a multitude of subjects. My passion comes from studying certain subjects during my bachelor's degree (Cryptography and Information Security, Internet Technologies and Standards, Telecommunication Systems), but above all from the development of a project in the field of cryptography that I conducted with a team of international students during an exchange period at "Warsaw University of Technology". The project concerned the implementation of an encryption algorithm chosen by the team (ElGamal cipher), which was then completely developed from scratch without using other previous implementations.
+I find Cybersecurity very exciting, challenging and above all very stimulating due to teamwork. I am currently furthering my cybersecurity studies by studying cybersecurity-related certfications and testing my skills through CFT events.
+  
 #
 
 ### 🧰 Languages and Tools

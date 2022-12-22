@@ -26,9 +26,9 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 
 ### 📊 Stats
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocampione&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=marcocampione&theme=gruvbox&border_radius=4.5) 
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocampione&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=marcocampione&theme=transparent&border_radius=4.5) 
 
 #
 

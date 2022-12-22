@@ -45,7 +45,7 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
     </a> 
 | <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent" />
-    </a> 
+    </a> |
 | ------------- | ------------- |
 
 

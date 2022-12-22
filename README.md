@@ -1,4 +1,5 @@
-# <img align="left" width="50px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" /> Marco Campione
+<img align="left" width="50px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" /> # Marco Campione
+
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>

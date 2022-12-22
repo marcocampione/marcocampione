@@ -1,4 +1,4 @@
-# <img align="left" width="50px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/hacker.png" /> Marco Campione
+# <img align="left" width="50px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" /> Marco Campione
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>
@@ -6,7 +6,7 @@
   <img align="right" alt="Marco Campione | Instagram" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marco-campione/">
-  <img align="right" alt="Marco Campione | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/lindedin.svg" />
+  <img align="right" alt="Marco Campione | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
 </a>
 <a href="https://marcocampione.xyz">
   <img align="right" alt="Marco Campione | website" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/website.png" />
@@ -35,10 +35,6 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 #
 
 ### 📊 Stats
-
-<!-- ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&hide_border=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent)
--->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Marco's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |

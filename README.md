@@ -9,7 +9,6 @@
   <img align="right" alt="Anurag Hazra | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
 </a>
 
-#
 
 **`Computer Science Student`**
 

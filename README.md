@@ -5,6 +5,15 @@
 I am very passionate about the world of Cybersecurity , field that is growing rapidly and which is useful for a multitude of subjects. My passion comes from studying certain subjects during my bachelor's degree (Cryptography and Information Security, Internet Technologies and Standards, Telecommunication Systems), but above all from the development of a project in the field of cryptography that I conducted with a team of international students during an exchange period at "Warsaw University of Technology". The project concerned the implementation of an encryption algorithm chosen by the team (ElGamal cipher), which was then completely developed from scratch without using other previous implementations.
 I find Cybersecurity very exciting, challenging and above all very stimulating due to teamwork. I am currently furthering my cybersecurity studies by studying cybersecurity-related certfications and testing my skills through CFT events.
   
+<a href="https://twitter.com/_marco_campione">
+  <img align="right" alt="Marco Campione | Twitter" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/marcocampione/">
+  <img align="right" alt="Marco Campione | Instagram" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/marco-campione/">
+  <img align="right" alt="Anurag Hazra | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
+</a>
 ---
 
 ### 🧰 Languages and Tools
@@ -36,14 +45,3 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 
 
 
-#
-
-<a href="https://twitter.com/_marco_campione">
-  <img align="right" alt="Marco Campione | Twitter" width="21px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/marcocampione/">
-  <img align="right" alt="Marco Campione | Instagram" width="21px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/marco-campione/">
-  <img align="right" alt="Anurag Hazra | LinkedIn" width="21px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
-</a>

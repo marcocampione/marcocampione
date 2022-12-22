@@ -1,16 +1,16 @@
-<img align="left" width="50px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" /> # Marco Campione
+# <img align="left" width="45px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" />Marco Campione
 
 <a href="https://twitter.com/_marco_campione">
-  <img align="right" alt="Marco Campione | Twitter" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
+  <img align="right" alt="Marco Campione | Twitter" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/marcocampione/">
-  <img align="right" alt="Marco Campione | Instagram" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
+  <img align="right" alt="Marco Campione | Instagram" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marco-campione/">
-  <img align="right" alt="Marco Campione | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
+  <img align="right" alt="Marco Campione | LinkedIn" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
 </a>
 <a href="https://marcocampione.xyz">
-  <img align="right" alt="Marco Campione | website" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/website.png" />
+  <img align="right" alt="Marco Campione | website" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/website.png" />
 </a>
 
 **`Computer Science Student`**

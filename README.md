@@ -40,13 +40,13 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+| <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Marco's GitHub stats" />
     </a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+| <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent" />
     </a> 
-
+| ------------- | ------------- |
 
 
 

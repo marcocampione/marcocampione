@@ -14,6 +14,7 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 <a href="https://www.linkedin.com/in/marco-campione/">
   <img align="right" alt="Anurag Hazra | LinkedIn" width="25px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/linkedin.svg" />
 </a>
+
 ---
 
 ### 🧰 Languages and Tools

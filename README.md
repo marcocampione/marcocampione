@@ -32,13 +32,13 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 
 #
 
-### 🌐 [Check my website] (https://marcocampione.xyz)
+### 🌐 [Check my website](https://marcocampione.xyz)
 
 
 
 #
 
-<a href="https://twitter.com/https://twitter.com/_marco_campione">
+<a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="21px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/marcocampione/">

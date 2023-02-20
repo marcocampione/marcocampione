@@ -1,7 +1,8 @@
 # <img align="left" width="55px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" />Marco Campione
-![](https://komarev.com/ghpvc/?username=marcocampione)
+
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
+  ![](https://komarev.com/ghpvc/?username=marcocampione)
 </a>
 <a href="https://www.instagram.com/marcocampione/">
   <img align="right" alt="Marco Campione | Instagram" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />

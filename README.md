@@ -40,5 +40,7 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 | <a href="https://github.com/marcocampione?tab=repositories"><img align="center" src="https://github-readme-stats-liard-beta.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Marco's GitHub stats" /></a> | <a href="https://github.com/marcocampione?tab=repositories"><img align="center" src="https://github-readme-stats-liard-beta.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
 
+![test](https://komarev.com/ghpvc/?username=marcocampione)
+
 
 

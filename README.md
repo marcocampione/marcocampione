@@ -1,8 +1,6 @@
-# <img align="left" width="55px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" />Marco Campione
-
+# <img align="left" width="55px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" /> Marco Campione ![](https://komarev.com/ghpvc/?username=marcocampione&style=flat&color=green)
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
-  ![](https://komarev.com/ghpvc/?username=marcocampione)
 </a>
 <a href="https://www.instagram.com/marcocampione/">
   <img align="right" alt="Marco Campione | Instagram" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/instagram.svg" />
@@ -32,6 +30,7 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <br />
 
 #

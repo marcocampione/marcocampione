@@ -1,5 +1,5 @@
 # <img align="left" width="55px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/name_icon.png" />Marco Campione
-
+![](https://komarev.com/ghpvc/?username=marcocampione)
 <a href="https://twitter.com/_marco_campione">
   <img align="right" alt="Marco Campione | Twitter" width="30px" src="https://raw.githubusercontent.com/marcocampione/marcocampione/master/assets/twitter.svg" />
 </a>
@@ -40,7 +40,7 @@ I find Cybersecurity very exciting, challenging and above all very stimulating d
 | <a href="https://github.com/marcocampione?tab=repositories"><img align="center" src="https://github-readme-stats-liard-beta.vercel.app/api?username=marcocampione&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Marco's GitHub stats" /></a> | <a href="https://github.com/marcocampione?tab=repositories"><img align="center" src="https://github-readme-stats-liard-beta.vercel.app/api/top-langs/?username=marcocampione&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
 
-![test](https://komarev.com/ghpvc/?username=marcocampione)
+
 
 
 
